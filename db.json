@@ -5,7 +5,7 @@
       "name": "Shoyu Ramen",
       "restaurant": "Nonono",
       "image": "./assets/ramen/shoyu.jpg",
-      "rating": 7,
+      "rating": "7",
       "comment": "Delish. Can't go wrong with a classic!"
     },
     {
@@ -37,8 +37,16 @@
       "name": "Kojiro Red Ramen",
       "restaurant": "Ramen-Ya",
       "image": "./assets/ramen/kojiro.jpg",
-      "rating": 6,
+      "rating": "6",
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "AniRamen",
+      "restaurant": "Aki",
+      "image": "https://www.the-arcade.ie/wp-content/uploads/2016/09/ramen-the-rolling-girls-01-01-1.png",
+      "rating": "1000",
+      "comment": "Magical",
+      "id": 6
     }
   ]
 }
